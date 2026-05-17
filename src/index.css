@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  font-family: 'Jameel Noori Nastaleeq','Alvi Nastaleeq','Pak Nastaleeq','Nafees Web Naskh','Urdu Naskh Asiatype',Tahoma,'Lucida Grande',Verdana,Arial,Sans-Serif;
+    font-size: 130%;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: 'Jameel Noori Nastaleeq','Alvi Nastaleeq','Pak Nastaleeq','Nafees Web Naskh','Urdu Naskh Asiatype',Tahoma,'Lucida Grande',Verdana,Arial,Sans-Serif;
+}
