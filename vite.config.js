@@ -6,13 +6,13 @@ const manifestForPlugIn = {
   registerType:'prompt',
   includeAssests:['favicon.ico', 'logo192.png', 'logo512.png'],
   manifest:{
-  name: 'القرآن مجید',
-  short_name: 'القرآن',
-  description:'القرآن مجید - 30 پارے، اردو ترجمے کے ساتھ',
-  icons: [
-    {
-      src: '/favicon.ico',
-      sizes: '48x48',
+    "name": "قرآن مجید - اردو",
+    "short_name": "قرآن مجید",
+    "description": "قرآن مجید- 30 پارے،صرف اردو ترجمہ ",
+    "icons": [
+      {
+        src: '/favicon.ico',
+        sizes: '48x48',
       type: 'image/x-icon'
     },
     {
